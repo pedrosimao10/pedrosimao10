@@ -1,10 +1,10 @@
 <h1 align="center">
   Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/>
 </h1>
 
 <h2 align="center">
-  Contact Me:
+  Contact Me Here:
 </h2>
 
 <div id="header" align="center">
@@ -30,10 +30,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
