@@ -1,6 +1,11 @@
 <h1 align="center">
-  Contact me Here
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<h2 align="center">
+  Contact Me:
+</h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
@@ -18,12 +23,12 @@
   </a>
 </div>
 
-<h1 align="center">
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrosimao10&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### :fire: My GitHub Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrosimao10&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosimao10&layout=compact)](https://github.com/pedrosimao10/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosimao10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
