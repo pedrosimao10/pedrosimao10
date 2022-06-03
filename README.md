@@ -32,7 +32,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         1 hr 30 mins    █████████████▓░░░░░░░░░░░   54.81 %
+YAML         35 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+HTML         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Properties   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+XML          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
