@@ -32,10 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         1 hr 9 mins     █████████████████████░░░░   84.25 %
-XML          10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
